@@ -1,7 +1,7 @@
 # CONSKID
 
 <b>Projekt CONSKID:</b>
-	"Povezani sistem za zajemanje in analizo tornih lastnosti voznih ploskev"<br>
+	"<a href="http://kmtm.fs.uni-lj.si/conskid/">Povezani sistem za zajemanje in analizo tornih lastnosti voznih ploskev</a>"<br>
 	Izdelan v okviru programa "<a href="http://www.sklad-kadri.si/si/razvoj-kadrov/po-kreativni-poti-do-znanja-pkp/">Po kreativni poti do znanja 2017-2020</a>", ki ga sofinancirata Republika Slovenija in Evropska unija iz Evropskega socialnega sklada.<br>
 
 <b>Avtorji programske opreme:</b><br>
