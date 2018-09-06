@@ -1,5 +1,5 @@
 #!/bin/bash
-# Remove (clear) all measurements
+# Move all measurement files to archive
 
 #to mark script executable:
 #   chmod +x file
