@@ -7,7 +7,7 @@
 <b>Avtorji programske opreme:</b><br>
 	Uroš Hudomalj, Aleksander Marinšek, Miha Ambrož<br>
 <b>Sodelavci pri razvoju in preizkušanju:</b><br>
-	Simon Grum, Rok Kogovšek, Rok Štefančič, Patrik Tarfila, Luka Grgurič, Juljiana Jamnik, Bajko Kulauzović, Mitja Pajek, Gašper Oman, Matija Mavrič, Robert Brozovič<br>
+	Simon Grum, Rok Kogovšek, Rok Štefančič, Patrik Tarfila, Luka Grgurič, Roman Kamnik, Juljiana Jamnik, Bajko Kulauzović, Mitja Pajek, Gašper Oman, Matija Mavrič, Robert Brozovič<br>
 
 <b>Vsebina direktorijev:</b><br>
 <ul>
