@@ -1,4 +1,4 @@
-# conskid
+# CONSKID
 
 <b>Projekt CONSKID:</b>
 	"Povezani sistem za zajemanje in analizo tornih lastnosti voznih ploskev"<br>
