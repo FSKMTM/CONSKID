@@ -1,0 +1,12 @@
+[Service]
+WorkingDirectory=/home/pi/conskid
+ExecStart=/home/pi/conskid/main
+Restart=always
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=conskid
+User=pi
+Group=pi
+Environment=NODE_ENV=production
+[Install]
+WantedBy=multi-user.target

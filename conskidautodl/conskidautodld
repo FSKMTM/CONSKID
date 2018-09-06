@@ -1,0 +1,22 @@
+#!/bin/bash
+
+HOSTS="conskid0 conskid1"
+USERNAME="pi"
+PASSWORD=""
+
+for i in $HOSTS;
+do
+	ping -c 1 $i > /dev/null
+	if [ $? -eq 0 ]; then
+		echo "$i is online, starting rsync..."
+		# key-pair access
+		rsync -razv -e 'ssh -o "NumberOfPasswordPrompts 0"' $USERNAME@$i:/home/pi/conskid/measurements/ ./measurements/$i
+		# password access
+		#sshpass -p $PASSWORD rsync -raz $USERNAME@$i:/home/pi/conskid/measurements/ ./measurements/$i
+		if [ $? -gt 0 ]; then
+			echo "rsync failed for $i"
+		fi
+	else
+		echo "$i is offline."
+	fi
+done
