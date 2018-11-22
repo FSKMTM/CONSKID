@@ -41,6 +41,9 @@
 <b>Namestitev:</b><br>
 	Vključena je datoteka makefile (prevajanje z "make"), preveden program je možno pognati od koder koli na datotečnem sistemu.<br>
 
+<br>
+<hr>
+<br>
 
 <b>The CONSKID project:</b>
 	"<a href="http://kmtm.fs.uni-lj.si/conskid/">Connected system for acquisition and analysis of driving surface friction properties</a>"<br>
