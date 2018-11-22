@@ -76,7 +76,7 @@
 	<li>Raspberry Pi Zero W</li>
 	<li>MPU-9250-based accelerometer</li>
 	<li>NMEA 0183-compliant GNSS-receiver connected to USB (connection parameters defined in serial_read/serial_read.h)</li>
-	<li>Two pushbuttons and two LEDs for user interface (connection paramters defined in gpio/gpio.h)</li>
+	<li>Two pushbuttons and two LEDs for user interface (connection parameters defined in gpio/gpio.h)</li>
 	<li><a href="https://www.raspberrypi.org/downloads/raspbian/">Raspbian Lite</a></li>
 </ul>
 	

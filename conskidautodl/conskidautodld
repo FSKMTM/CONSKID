@@ -1,6 +1,7 @@
 #!/bin/bash
 
-HOSTS="conskid0 conskid1"
+HOSTS="conskid0 conskid1 conskid2 conskid3"
+# hostnames are mapped to IPs in /etc/hosts
 USERNAME="pi"
 PASSWORD=""
 
